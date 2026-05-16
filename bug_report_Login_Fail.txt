@@ -1,0 +1,15 @@
+========================================
+         BUG REPORT
+========================================
+Title:     Login Fail
+Type:      logic
+Severity:  critical
+----------------------------------------
+Steps to Reproduce:
+  Try login to the potral
+Expected Behavior:
+  User logged in successfully 
+Actual Behavior:
+  User can't login
+========================================
+Date:      2026-05-16 21:31
