@@ -1,7 +1,7 @@
 import streamlit as st
 import datetime
 
-st.title("🐛 Bug Report Generator")
+st.title("Bug Report Generator")
 st.subheader("Fill in the details below to generate a professional bug report")
 
 st.divider()
