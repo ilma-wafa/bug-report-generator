@@ -38,6 +38,7 @@ bug-report-generator/
 ├── bug_report_generator.py
 ├── bug_report_Login_Fail.txt
 ├── test_plan.md
+```text
 └── README.md
 
 ## QA Testing
