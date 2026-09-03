@@ -28,6 +28,7 @@ Try the application:
 | Streamlit | Web application interface |
 | Markdown | Test documentation |
 
+````markdown
 ## Project Structure
 
 ```text
