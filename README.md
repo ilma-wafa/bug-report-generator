@@ -38,3 +38,27 @@ bug-report-generator/
 ├── bug_report_Login_Fail.txt
 ├── test_plan.md
 └── README.md
+
+## QA Testing
+
+Testing for this project focuses on validating user input and identifying potential defects across common and edge-case scenarios.
+
+The current test plan covers:
+
+| Test Case | Scenario | Testing Technique |
+|---|---|---|
+| TC001 | Submit the form with an empty title | Negative Testing |
+| TC002 | Submit the form with a spaces-only title | Negative Testing |
+| TC003 | Enter special characters in the title | Input Validation |
+| TC004 | Enter 1000+ characters | Boundary Value Analysis |
+
+For the complete test cases and expected results, see the [Test Plan](test_plan.md).
+
+### Testing Approach
+
+The test scenarios were selected to cover:
+
+- **Negative testing** — validating how the application behaves with invalid or missing input
+- **Input validation** — checking how user-provided values are handled
+- **Boundary value analysis** — testing behavior with unusually large input
+- **Edge cases** — exploring inputs that may expose unexpected application behavior
