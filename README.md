@@ -62,3 +62,25 @@ The test scenarios were selected to cover:
 - **Input validation** — checking how user-provided values are handled
 - **Boundary value analysis** — testing behavior with unusually large input
 - **Edge cases** — exploring inputs that may expose unexpected application behavior
+
+### Test Coverage
+
+The current test plan focuses on input-related scenarios that could affect report generation and usability.
+
+| Area | Coverage |
+|---|---|
+| Required field validation | Empty and missing input |
+| Whitespace handling | Spaces-only input |
+| Special characters | Unusual characters in bug titles |
+| Boundary testing | Large text input (1000+ characters) |
+
+> **Testing status:** Test cases are currently documented in the test plan. Execution results will be added as testing is completed.
+
+## How It Works
+
+1. Enter the relevant bug information in the application.
+2. Select the appropriate bug type and severity.
+3. Provide the steps to reproduce the issue.
+4. Enter the expected and actual results.
+5. Generate the bug report.
+6. Download the generated report for further use.
