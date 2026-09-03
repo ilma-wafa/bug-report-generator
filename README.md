@@ -84,3 +84,11 @@ bug-report-generator/
 ├── test_plan.md
 ├── Screenshot.png
 └── README.md
+```
+## Author
+
+**Ilma Wafa**
+
+Software Engineering Graduate | QA Engineering
+
+GitHub: [@ilma-wafa](https://github.com/ilma-wafa)
