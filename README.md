@@ -84,3 +84,7 @@ The current test plan focuses on input-related scenarios that could affect repor
 4. Enter the expected and actual results.
 5. Generate the bug report.
 6. Download the generated report for further use.
+
+## Application Preview
+
+![Bug Report Generator application preview](Screenshot.png)
